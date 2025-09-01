@@ -27,11 +27,7 @@ Backend(nodejs,express,mongodb,cloudinary)
 - Secure password hashing with bcrypt.  
 - Cloudinary integration for product images
 
-SellerDashboard
-<img width="1892" height="963" alt="image" src="https://github.com/user-attachments/assets/431ff8a7-31e5-4aad-a92f-866b693a26ec" />
-<img width="1857" height="866" alt="image" src="https://github.com/user-attachments/assets/ec780e35-c0cc-4613-8d9c-29261b3a0a5f" />
-
-ClientDashboard
+- ClientDashboard
 <img width="1902" height="950" alt="image" src="https://github.com/user-attachments/assets/a5150a9d-d128-443b-b45e-2a161877210a" />
 searching for a product
 <img width="1738" height="671" alt="image" src="https://github.com/user-attachments/assets/2b35d239-3a1f-4a4a-b699-0c037a6d6890" />
@@ -42,6 +38,12 @@ BestSeller
 AllProducts
 <img width="1787" height="942" alt="image" src="https://github.com/user-attachments/assets/e4a17f61-1e91-43ba-891f-9f9762e639de" />
 <img width="1761" height="957" alt="image" src="https://github.com/user-attachments/assets/cb68c666-29d6-4807-99c7-00b2e0dc5217" />
+
+SellerDashboard
+<img width="1892" height="963" alt="image" src="https://github.com/user-attachments/assets/431ff8a7-31e5-4aad-a92f-866b693a26ec" />
+<img width="1857" height="866" alt="image" src="https://github.com/user-attachments/assets/ec780e35-c0cc-4613-8d9c-29261b3a0a5f" />
+
+
 Shopping Cart 
 <img width="1757" height="895" alt="image" src="https://github.com/user-attachments/assets/b8db3803-0654-415c-a810-3175f49430fa" />
 <img width="1793" height="935" alt="image" src="https://github.com/user-attachments/assets/fa18d729-bbc7-41ad-99ac-a6cc776e7c8a" />

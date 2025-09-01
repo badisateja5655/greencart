@@ -29,16 +29,17 @@ Backend(nodejs,express,mongodb,cloudinary)
 
  ClientDashboard
 <img width="1902" height="950" alt="image" src="https://github.com/user-attachments/assets/a5150a9d-d128-443b-b45e-2a161877210a" />
+Categories
+<img width="1833" height="952" alt="image" src="https://github.com/user-attachments/assets/ae7ed55b-52f2-442b-b022-cfe466a4899a" />
+BestSeller
+<img width="1865" height="911" alt="image" src="https://github.com/user-attachments/assets/08dff90f-68f6-4486-8e07-d6ab66caabff" />
+
 AllProducts
 <img width="1787" height="942" alt="image" src="https://github.com/user-attachments/assets/e4a17f61-1e91-43ba-891f-9f9762e639de" />
 <img width="1761" height="957" alt="image" src="https://github.com/user-attachments/assets/cb68c666-29d6-4807-99c7-00b2e0dc5217" />
 
 searching for a product
 <img width="1738" height="671" alt="image" src="https://github.com/user-attachments/assets/2b35d239-3a1f-4a4a-b699-0c037a6d6890" />
-Categories
-<img width="1833" height="952" alt="image" src="https://github.com/user-attachments/assets/ae7ed55b-52f2-442b-b022-cfe466a4899a" />
-BestSeller
-<img width="1865" height="911" alt="image" src="https://github.com/user-attachments/assets/08dff90f-68f6-4486-8e07-d6ab66caabff" />
 
 SellerDashboard
 <img width="1892" height="963" alt="image" src="https://github.com/user-attachments/assets/431ff8a7-31e5-4aad-a92f-866b693a26ec" />

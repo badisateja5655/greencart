@@ -17,6 +17,7 @@ Frontend (React)
 - "My Orders" page for tracking past orders.  
 - Seller/Admin dashboard (if included): add/edit products, manage orders.
 
+Backend(nodejs,express,mongodb,cloudinary)
 - - RESTful API with secure routes.  
 - User authentication & authorization using JWT.  
 - Product CRUD operations (Create, Read, Update, Delete).  

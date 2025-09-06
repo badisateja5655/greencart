@@ -5,7 +5,7 @@ Frontend: React, React Router, Context API / Redux (state management), Axios, Ta
 Backend: Node.js, Express.js, MongoDB, Mongoose
 Authentication: JWT (JSON Web Token)
 Image Hosting: Cloudinary
-Payment Gateway: (Stripe / Razorpay if used)
+Payment Gateway: Stripe 
 
 Frontend (React)  
 - Modern UI with responsive design.  
